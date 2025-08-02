@@ -1,6 +1,6 @@
 # Live Demo
 
-> 🚀 **[Live Demo](#)**  
+> 🚀 **[Live Demo](https://tanujsharma911.github.io/currency-convertor/)**  
 > Try the Currency Converter in action!
 
 # Currency Converter
